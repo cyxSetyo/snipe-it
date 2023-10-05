@@ -849,6 +849,8 @@
                 </section>
 
             </div><!-- /.content-wrapper -->
+           
+           <!-- Footer 
             <footer class="main-footer hidden-print" style="display:grid;flex-direction:column;">
 
                 <div class="1hidden-xs pull-left">
@@ -888,7 +890,7 @@
                         </div>
                     @endif
                 </div>
-            </footer>
+            </footer> -->
         </div><!-- ./wrapper -->
 
 
